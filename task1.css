@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    margin-top: 20vh;
+    
+    
+} 
+.info
+{
+    margin-left: 83vh;
+    font-size: 70px;
+    color: beige;
+}
+
+.add
+{
+    margin-left: 75vh;
+    font-size: 70px;
+   
+}
+
+.small
+{
+    margin-left: 83vh;
+}
